@@ -6,3 +6,6 @@ https://i2cdevices.org/devices/ssd1306
 
 Address:
 0x3C
+
+Component Library:
+https://github.com/nopnop2002/esp-idf-ssd1306
